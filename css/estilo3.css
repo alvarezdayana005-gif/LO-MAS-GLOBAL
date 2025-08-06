@@ -1,0 +1,128 @@
+.contenido_texto
+{
+    border: 2px solid rgb(240, 87, 227);
+    width: 100%;
+    height: auto;
+    background-color: rgb(138, 97, 177);
+    padding: 5px 5px; /*separa a traves de margenes internas*/
+    margin: 5px 5px;
+    display: flex;
+}
+.texto, .imagen_texto
+{
+    display: block;
+    width: 100%;
+    height: auto;
+    background-color: bisque;
+    padding: 8px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+.texto h1
+{
+    font-weight: 10px;
+    align-items: center;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18pt;
+}
+.imagen_texto img
+{
+    width: 60%;
+}
+.imagencontenido
+{
+    text-align: center;
+    align-items: center;
+}/*termina pelicula*/
+.series_texto
+{
+     border: 2px solid rgb(240, 87, 227);
+    width: 100%;
+    height: auto;
+    background-color: rgb(138, 97, 177);
+    padding: 5px 5px; /*separa a traves de margenes internas*/
+    margin: 5px 5px;
+    display: flex;
+}
+.texto, .serimg_texto
+{
+    display: block;
+    width: 100%;
+    height: auto;
+    background-color: bisque;
+    padding: 8px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+.serimg_texto img
+{
+    width: 60%;
+}
+.imagenserie
+{
+    text-align: center;
+    align-items: center;
+}/*termina serie*/
+.musica_texto
+{
+     border: 2px solid rgb(240, 87, 227);
+    width: 100%;
+    height: auto;
+    background-color: rgb(138, 97, 177);
+    padding: 5px 5px; /*separa a traves de margenes internas*/
+    margin: 5px 5px;
+    display: flex;
+}
+.texto, .musicaimg_texto
+{
+    display: block;
+    width: 100%;
+    height: auto;
+    background-color: bisque;
+    padding: 8px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+.musicaimg_texto img
+{
+    width: 60%;
+}
+.imagenmusica
+{
+    text-align: center;
+    align-items: center;
+}/*termina musica*/
+.libros_texto
+{
+     border: 2px solid rgb(240, 87, 227);
+    width: 100%;
+    height: auto;
+    background-color: rgb(138, 97, 177);
+    padding: 5px 5px; /*separa a traves de margenes internas*/
+    margin: 5px 5px;
+    display: flex;
+}
+.texto, .librosimg_texto
+{
+    display: block;
+    width: 100%;
+    height: auto;
+    background-color: bisque;
+    padding: 8px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+.librosimg_texto img
+{
+    width: 60%;
+}
+.imagenlibros
+{
+    text-align: center;
+    align-items: center;
+}/*termina libros*/
